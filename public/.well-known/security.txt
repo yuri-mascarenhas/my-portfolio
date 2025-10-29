@@ -1,0 +1,4 @@
+Contact: mailto:mascarenhasyuri@hotmail.com
+Preferred-Languages: en, ptBR
+Acknowledgments: https://yuri-mascarenhas.dev
+Policy: https://yuri-mascarenhas.dev/security
