@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-  title: "Yuri Mascarenhas | Cyber Security Portfolio",
+  title: "Welcome ● Yuri Mascarenhas | Cyber Security Portfolio",
   description:
     "Portfolio and CV of Yuri Mascarenhas, Cyber Security Governance professional specializing in Cyber Risk Management and Secure Web Application Development",
 };
