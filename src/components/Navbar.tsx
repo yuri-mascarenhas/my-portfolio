@@ -2,10 +2,10 @@ import Link from "next/link";
 
 export default function Navbar() {
   return (
-    <nav className="bg-white shadow-sm border-b">
-      <div className="max-w-5xl mx-auto px-4 py-3 flex justify-between items-center">
+    <nav className="bg-inherit shadow-sm border-b">
+      <div className=" mx-auto px-4 py-3 flex justify-between items-center text-white">
         <Link href="/" className="font-semibold text-lg">
-          Yuri Mascarenhas
+          YSM
         </Link>
         <div className="space-x-4 text-sm">
           <Link href="/about">About</Link>
